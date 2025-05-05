@@ -8,6 +8,8 @@ Contents
 
 How to Run
 Open `unemploymentanalysis.ipynb` in Jupyter Notebook.
+
 Sample Visualization
-'bargraph.png'
+[Unemployment Bar Graph](bargraph.png)
+
 
